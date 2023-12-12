@@ -1,0 +1,4 @@
+#Tue Dec 12 21:56:53 CET 2023
+base.0=C\:\\Users\\waela\\OneDrive\\Desktop\\cr-tp-31-gii-sii-WaelArfaouii\\application\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
